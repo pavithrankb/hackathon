@@ -10,4 +10,4 @@ type 4:commercial)
 
 the user should enter the userid to view the usage and the due for that month
 
-the prices are calculated on the basis of kerala electricity tariff for each type
+the prices are calculated on the basis of kerala electricity tariff for each type and fx denotes the fixed price accordingly
