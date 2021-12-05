@@ -32,15 +32,6 @@ def new250(usage):
             s = 0
     print('The due for this month is rupees:',int(cost+fx))
 
-# print('''enter the type(1 for domestic 2 for industrial...)
-#  1.domestic
-#  2.industrial
-#  3.agriculture
-#  4.commercial''')
-# type=int(input())
-# print('enter the initial and final reading of the meter reading')
-# ini,final=map(int,input().split())
-# usage=final-ini
 
 
 for i in df['userid']:
